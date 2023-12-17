@@ -5,7 +5,7 @@
 - Actualmente estudiando ingeniería civil en computación e informática.
 - Mi sueño es construir soluciones que hagan la vida más fácil. 
 - Disfruto creando aplicaciones web con Astro, Svelte y Tailwind CSS.
-- Siempre estoy en constante aprendizaje, buscando oportunidades para ampliar mis conocimiento.
+- Siempre estoy en constante aprendizaje, buscando oportunidades para ampliar mis conocimientos.
   
 ### Tecnologías y lenguajes que he explorado
 
