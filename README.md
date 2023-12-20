@@ -12,7 +12,7 @@
 A lo largo de mi paso por la universidad, he utilizado diversas tecnologías y lenguajes, como:
 
 - **.NET:** C#, WPF y ASP.NET para desarrollar aplicaciones web y de escritorio.
-- **Python:** Numpy, Pandas, Matplotlib y Seaborn para análisis exploratorio de datos.
+- **Python:** Pandas, Matplotlib y Seaborn para análisis exploratorio de datos.
 - **Desarrollo web:** HTML, CSS, JavaScript, y explorando herramientas como Bootstrap 4, Tailwind CSS, Astro y Svelte.
 - **Java:** Conocimientos básicos, enfocados en algoritmos y estructuras de datos.
 - **Bases de datos:** Microsoft SQL Server y Azure SQL Database para almacenar datos de manera local y en la nube.
