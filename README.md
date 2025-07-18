@@ -1,18 +1,11 @@
-# Hola, soy Joaquín 🦐🤙
+### Hola, soy Joaquín 👋
 
-### Sobre mí
+#### Full-Stack Developer y entusiasta del desarrollo web ☁️
 
-- Actualmente estudiando ingeniería civil en computación e informática.
-- Mi sueño es construir soluciones que hagan la vida más fácil. 
-- Disfruto creando aplicaciones web con Astro, Svelte y Tailwind CSS.
-- Siempre estoy en constante aprendizaje, buscando oportunidades para ampliar mis conocimientos.
-  
-### Tecnologías y lenguajes que he explorado
+Estudiante de **Ingeniería Civil en Computación e Informática** en Universidad Mayor;<br>
+Me apasiona construir plataformas web útiles y con propósito;<br>
 
-A lo largo de mi paso por la universidad, he utilizado diversas tecnologías y lenguajes, como:
-
-- **.NET:** C#, WPF y ASP.NET para desarrollar aplicaciones web y de escritorio.
-- **Python:** Pandas, Matplotlib y Seaborn para análisis exploratorio de datos.
-- **Desarrollo web:** HTML, CSS, JavaScript, y explorando herramientas como Bootstrap 4, Tailwind CSS, Astro y Svelte.
-- **Java:** Conocimientos básicos, enfocados en algoritmos y estructuras de datos.
-- **Bases de datos:** Microsoft SQL Server y Azure SQL Database para almacenar datos de manera local y en la nube.
+- ⚙️ Uso a diario: `.ts`, `.py`, `.html`, `.css`, `.sql`, `.json`
+- 🌐 En el frontend he trabajado con **React**, **Astro**, **Next.js**, **Angular** y **Tailwind CSS**
+- 🔙 En el backend he utilizado **Nest.js** y **Flask** para crear **APIs** y **microservicios**
+- 🧰 Me interesa hablar sobre **desarrollo web**, **arquitectura de software**, **cloud computing** y **automatización de procesos**
